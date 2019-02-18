@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+<!--4x4 loot container size.-->
+<set xpath="lootcontainers/lootcontainer[@id='79']/@size">9,9</set>
+
+</configs>
